@@ -679,31 +679,28 @@ width: 50%;
 
 
 .git{
-padding:0 80px 0 80px;
+padding:0 80px 0 80px !important;
 }
 .git h5{
-  color: #1f1f25;
-  font-size: 15px;
-  text-transform: uppercase;
-  letter-spacing: 4px;
-  display: inline-block;
-  background: var(--first-color);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #1f1f25 !important;
+  font-size: 15px !important;
+  text-transform: uppercase !important;
+  letter-spacing: 4px !important;
+  display: inline-block !important;
+  background: var(--first-color) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
 }
 .git h1{
-  color: #1f1f25;
-  font-size: 50px;
-  font-weight: 900;
-  text-transform: inherit;
-  width: 100%;
+  color: #1f1f25 !important;
+  font-size: 50px !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  width: 100% !important;
 }
 .git p{
-  width: 100%;
-  color: #757575;
-  padding-bottom: 30px;
-  padding-top: 30px;
-}
-a{text-decoration: none;
-color:blue;
+  width: 100% !important;
+  color: #757575 !important;
+  padding-bottom: 30px !important;
+  padding-top: 30px !important;
 }
